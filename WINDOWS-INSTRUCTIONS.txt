@@ -1,0 +1,20 @@
+WINDOWS + GITHUB DESKTOP
+
+1. Right-click TITAN_ENTERPRISE_V5_VALIDATED.zip.
+2. Click "Extract All...".
+3. Open the extracted folder.
+4. Open the folder named "titan-enterprise".
+5. Confirm you see:
+   - assets
+   - documents
+   - index.html
+   - style.css
+6. In GitHub Desktop, open Repository > Show in Explorer.
+7. Delete the current visible project files from that repository folder.
+   Do not delete the hidden .git folder.
+8. Copy EVERYTHING from inside the validated "titan-enterprise" folder
+   into the GitHub Desktop repository folder.
+9. Return to GitHub Desktop.
+10. Summary: "Upload TITAN Enterprise V5 validated"
+11. Click Commit to main.
+12. Click Push origin.

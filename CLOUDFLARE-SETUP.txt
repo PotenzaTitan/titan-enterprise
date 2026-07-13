@@ -1,0 +1,27 @@
+CLOUDFLARE PAGES — DEPLOYMENT SETTINGS
+
+1. Connect the GitHub repository:
+   PotenzaTitan/titan-potenza
+
+2. Framework preset:
+   None
+
+3. Build command:
+   Leave blank
+
+4. Build output directory:
+   /
+
+5. Root directory:
+   Leave blank
+
+6. Production branch:
+   main
+
+7. Add custom domains:
+   potenzaimport.com
+   www.potenzaimport.com
+
+IMPORTANT:
+This version uses a mailto-based commercial form because Cloudflare Pages does not process Netlify Forms natively.
+Email and WhatsApp buttons remain fully active.

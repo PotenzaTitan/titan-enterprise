@@ -1,0 +1,3 @@
+POTENZA TITAN ENTERPRISE
+Version: 4.1 GitHub Edition
+Purpose: GitHub + Cloudflare Pages deployment

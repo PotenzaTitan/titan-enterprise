@@ -1,0 +1,61 @@
+TITAN ENTERPRISE V5 — VALIDATION REPORT
+
+STATUS: PASSED
+
+Required folders confirmed:
+- assets/
+- assets/images/
+- assets/logos/
+- documents/
+
+Reference checks:
+- PASS: index references style.css
+- PASS: index references logo folder
+- PASS: index references image folder
+- PASS: index references documents folder
+- PASS: css references image folder
+- PASS: account block above 100,000 MT
+
+IMPORTANT WINDOWS EXTRACTION:
+1. Right-click TITAN_ENTERPRISE_V5_VALIDATED.zip
+2. Choose "Extract All..."
+3. Open the extracted folder
+4. You must see a folder named titan-enterprise
+5. Inside it, you must see the folders assets and documents
+
+FILE TREE:
+      404.html
+      CLOUDFLARE-SETUP.txt
+      FILE-TREE.txt
+      GITHUB-UPLOAD-GUIDE.txt
+      README.md
+      VERSION.txt
+      _headers
+      _redirects
+[DIR] assets
+[DIR] assets/images
+      assets/images/documents.jpg
+      assets/images/global-map.jpg
+      assets/images/hero-port.jpg
+      assets/images/ic45.jpg
+      assets/images/logistics.jpg
+      assets/images/meeting.jpg
+      assets/images/mill.jpg
+      assets/images/vhp.jpg
+      assets/images/warehouse.jpg
+[DIR] assets/logos
+      assets/logos/favicon.svg
+      assets/logos/potenza-logo.svg
+[DIR] documents
+      documents/Buyer-Qualification.pdf
+      documents/Company-Profile.pdf
+      documents/ICUMSA45-Specifications.pdf
+      documents/VHP-Specifications.pdf
+      ic45.html
+      index.html
+      manifest.json
+      robots.txt
+      sitemap.xml
+      style.css
+      thank-you.html
+      vhp.html
