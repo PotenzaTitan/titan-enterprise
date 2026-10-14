@@ -1,3 +1,5 @@
-POTENZA TITAN ENTERPRISE
-Version: 4.1 GitHub Edition
-Purpose: GitHub + Cloudflare Pages deployment
+Potenza TITAN Website
+Version: V6 — Direct Mill Purchase Model
+Status: Prepared for review and deployment
+Deployment: Netlify via GitHub repository main branch
+Legacy programs: Removed from the updated website content
