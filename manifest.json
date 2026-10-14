@@ -1,10 +1,8 @@
 {
-  "name": "Potenza TITAN",
-  "short_name": "TITAN",
-  "description": "Direct Brazilian sugar mill purchase program",
+  "name": "Potenza Trading | Project TITAN",
+  "short_name": "Project TITAN",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#071526",
-  "theme_color": "#071526",
-  "icons": []
+  "background_color": "#0b1320",
+  "theme_color": "#0b1320"
 }
