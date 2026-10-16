@@ -1,2 +1,1 @@
-POTENZA TITAN V8.4
-Updated contact email and clarified 12,500–25,000 MT per mill / per contract.
+POTENZA TITAN V8.4.1 - Netlify form fix

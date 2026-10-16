@@ -144,7 +144,9 @@
       <p><a href="mailto:contact@potenzaimport.com">contact@potenzaimport.com</a><br><a href="tel:+5511998230654">+55 11 99823-0654</a></p>
     </div>
 
-    <form class="buyer-form" action="thank-you.html" method="get">
+    <form class="buyer-form" name="buyer-application" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you.html">
+      <input type="hidden" name="form-name" value="buyer-application">
+      <p hidden><label>Do not fill this out: <input name="bot-field"></label></p>
       <div class="form-row">
         <label>Company<input required name="company"></label>
         <label>Country<input required name="country"></label>
